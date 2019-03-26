@@ -1,1 +1,3 @@
 "Name: Muhammad Umer" 
+Email: 19960@ucp.edu.pk
+Faculty of Information Technology
